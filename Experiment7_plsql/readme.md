@@ -1,7 +1,7 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 ```
-Name : N Irshath Ahamed
-Reg. No : 212224110025
+Name : B Naveen Sairam
+Reg. No : 212224240103
 ```
 
 ## AIM
